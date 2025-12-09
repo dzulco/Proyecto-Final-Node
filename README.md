@@ -1,4 +1,5 @@
-***** Proyecto en NODE JS
+***** Proyecto en NODE JS ****
+
 ---- API de productos con persistencia en DB noSQL y auth con JWT ----
 
 Modularización
